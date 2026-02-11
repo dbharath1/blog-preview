@@ -15,12 +15,14 @@ body {
 
 .card {
   background-color: white;
-  width: 380px;
-  padding: 24px;
-  border-radius: 20px;
+  width: 24rem;
+  max-width: 90%;
+  padding: 1.5rem;
+  border-radius: 1.25rem;
   border: 1px solid black;
-  box-shadow: 8px 8px 0px black;
+  box-shadow: 0.5rem 0.5rem 0px black;
 }
+
 
 .card img {
   width: 100%;
